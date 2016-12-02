@@ -1,7 +1,6 @@
 
 
-####Fit the data with a 
-#ML analysis
+####Fit the data with a ML analysis
 mod=lm(values~ind,data=Data)
 summary(mod)
 #or
